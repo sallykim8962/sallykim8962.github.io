@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "Mathematics Story"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "sallykim"
+name                     : ""
 description              : "The criteria that distinguishes natural science and liberal arts is not mathematics. It is a story about mathematics by a liberal arts student who loves math."
 url                      : "https://sallykim8962.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "수학을 사랑하는 학생"
+  location         : "대한민국, 서울"
+  email            : "21-20306@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
