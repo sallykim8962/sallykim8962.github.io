@@ -102,9 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "Yujin Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "수학을 사랑하는 학생"
-  location         : "대한민국, 서울"
+  avatar           : "/assets/images/libe.jpg"
+  bio              : "Mathematics lover"
+  location         : "Korea, Seoul"
   email            : "21-20306@hafs.hs.kr"
   links:
     - label: "Email"
