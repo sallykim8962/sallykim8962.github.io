@@ -1,9 +1,9 @@
 ---
-layout: layout
+layout: single
 title:  "My Second Mathematics Story"
----
 
-## Chapter1. 통계학 기초: 회귀분석
+---
+## chapter1. 통계학 기초: 회귀분석
 ---
 
 안녕하세요, 매쓰홀릭입니다. 이번 포스팅은 회귀분석과 상관분석에 대한 내용으로 찾아뵙게 되었습니다. 
